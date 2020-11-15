@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.851,C:\Users\Frank\Desktop\edu\ТП\kp\проект\mainUnit.pas=C:\Users\Frank\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.295,C:\Users\Frank\Desktop\edu\ТП\kp\проект\globalObjects.pas=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,C:\Users\Frank\Desktop\edu\ТП\kp\проект\authUnit.pas=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,C:\Users\Frank\Desktop\edu\ТП\kp\проект\mainUnit.dfm=C:\Users\Frank\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,C:\Users\Frank\Desktop\edu\ТП\kp\проект\consultUnit.pas=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,=C:\Users\Frank\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,C:\Users\Frank\Desktop\edu\ТП\kp\проект\consultUnit.dfm=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,=C:\Users\Frank\Desktop\edu\ТП\kp\проект\CRUDunit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,C:\Users\Frank\Desktop\edu\ТП\kp\проект\authUnit.dfm=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,C:\Users\Frank\Desktop\edu\ТП\kp\проект\mainProject.dproj=C:\Users\Frank\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020.11.13 22:38:09.705,=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+    <Transaction>2020.11.13 22:39:36.460,C:\Users\Frank\Desktop\edu\ТП\kp\проект\searchUnit.dfm=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.dfm</Transaction>
+    <Transaction>2020.11.13 22:39:36.460,C:\Users\Frank\Desktop\edu\ТП\kp\проект\searchUnit.pas=C:\Users\Frank\Desktop\edu\ТП\kp\проект\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
